@@ -1,0 +1,20 @@
+{
+  "name": "magic_hat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fps-indicator": "^1.2.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-magic-hat": "^1.1.0",
+    "react-portal": "^4.1.5",
+    "react-scripts": "1.1.4",
+    "styled-components": "^3.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
